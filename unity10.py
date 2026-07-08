@@ -10,4 +10,4 @@ sss=''
 for bitt in bittt:
     sss +=bitt.rstrip()
 print(sss)
-## 10-2
+## 10-2 git commit
